@@ -3,7 +3,7 @@ This is my second repo
 
 In this Repo, we will learn how to use git from command line.
 
-# Cloning a repo
+**Cloning a repo**
 git clone url
 
 # Checking status of repo
