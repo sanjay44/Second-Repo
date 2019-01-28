@@ -19,3 +19,10 @@ m specifies a message for the commit
 
 #### Push the changes to github in the master branch
 git push origin master
+
+## Initialising a Repo
+1) git init
+2) git add .
+3) git commit -m "Your message"
+4) git remote add origin "origin"
+5) git push origin master
